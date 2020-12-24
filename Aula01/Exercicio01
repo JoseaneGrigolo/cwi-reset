@@ -1,0 +1,46 @@
+Exercício:
+    Descreva um algoritmo para representar sua rotina matinal,
+a partir do momento em que você acorda.Use ao menos duas vezes a expressão Se ... Então ....
+     Caso queira ir um pouco além do que foi apresentado no vídeo,
+tente incluir as instruções Se ... Então ... Senão ... e Enquanto ....
+________________________________
+Se celular tocar Então
+    levantar da cama
+
+ir até a cozinha
+
+Se tem ovos Então
+    fazer omelete
+Se não
+    tomar iogurte
+
+Enquanto tomar café da manhã
+   ver o noticiário
+_______________________________
+Resolução proposta:
+
+Se o despertador tocou Então
+  desligar o despertador
+
+levantar da cama
+caminhar até a cozinha
+abrir a geladeira
+
+Se tem leite Então
+  fazer café com leite
+Senão
+  fazer café preto
+
+Enquanto estiver com fome
+  tomar o café da manhã
+
+caminhar até o banheiro
+
+Se a porta estiver fechada Então
+  abrir a porta
+
+entrar no banheiro
+escovar os dentes
+caminhar até o quarto
+trocar de roupa
+ir para o trabalho

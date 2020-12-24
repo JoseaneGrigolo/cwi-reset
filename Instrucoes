@@ -1,0 +1,73 @@
+  *** Algoritmos e lógica de programação ***
+_____________________________________________________
+
+>>> Aula #01 - Introdução à lógica de programação
+
+Algoritimo; Passo-a-passo; Instruções;
+Exercicio;
+_____________________________________________________
+
+>>> Aula #02 - Como o computador entende as coisas?
+
+Interpretador; Compilador; Linguagens;
+
+Leitura complementar:
+Linguagem de programação; Conceito; Programador;
+Linguagens; Codigo; Algoritimo; Rodar;
+_____________________________________________________
+
+>>> Aula #03 - Hello World
+
+Repl.it - JavaScript;
+Impressão na tela;
+_____________________________________________________
+
+>>> Aula #04 - Variáveis
+
+Inteiro: positivo/negativo
+Real: positivo/negativo/fracionado
+Caracter: " " letras, numeros, simbolos...Entre aspas
+Logico: booleanos, true or false
+
+Variaveis:
+primeiro caracter não pode ser numero
+não possuir espaços em brancos
+não pode ser palavra reservada
+só pode ser usado letra, numero e sublinhado
+
+Constantes: 
+não se modifica
+ex: valor do PI
+
+Instruções - comandos;
+Exercicio;
+_____________________________________________________
+
+>>> Aula #05 - Operadores
+
+Operadores aritméticos, relacionais e lógicos;
+Exercicio;
+_____________________________________________________
+
+>>> Aula #06 - Condicionais
+
+if;
+else if;
+else;
+swuitch;
+case;
+break;
+_____________________________________________________
+>>> Aula #07 - Vetores, matrizes e arrays
+
+vetor - matriz
+Leitura complementar: Arrays
+_____________________________________________________
+Aula #08 - Estruturas de repetição
+
+_____________________________________________________
+Aula #09 - Funções, procedimentos e comentários
+
+_____________________________________________________
+Aula #10 - Juntando tudo
+
