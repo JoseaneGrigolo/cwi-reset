@@ -57,17 +57,36 @@ else;
 swuitch;
 case;
 break;
+Exercicio;
 _____________________________________________________
 >>> Aula #07 - Vetores, matrizes e arrays
 
 vetor - matriz
-Leitura complementar: Arrays
+Leitura complementar: Arrays - DevMidia
 _____________________________________________________
-Aula #08 - Estruturas de repetição
+>>> Aula #08 - Estruturas de repetição
 
+while;
+do while;
+for;
+Leitura complementar: Estruturas de repetição 
+Exercicio;
 _____________________________________________________
-Aula #09 - Funções, procedimentos e comentários
+>>> Aula #09 - Funções, procedimentos e comentários
 
+Artigo - comentários
+// /**/
+
+functions;
+
+Leitura complementar: documentacao
+Exercicio;
 _____________________________________________________
-Aula #10 - Juntando tudo
+>>> Aula #10 - Juntando tudo
+
+calculo imc;
+Exercicio;
+_____________________________________________________
+
+
 
